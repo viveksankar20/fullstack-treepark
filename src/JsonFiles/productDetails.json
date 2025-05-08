@@ -1,0 +1,203 @@
+ [{"category" : [
+    {
+      "categoryName": "Plants",
+      "categoryImage": "https://www.ugaoo.com/cdn/shop/files/Plants_731fd685-a5e3-4d75-a75c-a5f643e07676.png?v=1739963491&width=535"
+    },
+    {
+      "categoryName": "Seeds",
+      "categoryImage": "https://www.ugaoo.com/cdn/shop/files/Seeds_9d649188-a482-412d-8673-ce3d1ca89d7e.png?v=1739963487&width=535"
+    },
+    {
+      "categoryName": "Pots and Planters",
+      "categoryImage": "https://www.ugaoo.com/cdn/shop/files/Pots_and_Planters_7950ef20-1be7-43b6-88da-c9daae4d28ed.png?v=1739963489&width=535"
+    },
+    {
+      "categoryName": "Plant Care",
+      "categoryImage": "https://www.ugaoo.com/cdn/shop/files/Plant_Care_b1543fe8-daf1-4579-9c6d-b11b801736f6.png?v=1739963488&width=535"
+    }
+  ],
+  "productDetails":[
+    {
+      "id": 1,
+      "productName": "Snake Plant",
+      "price": 250,
+      "discount": 15,
+      "productRating": 4.5,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/snake-plant.jpg",
+      "category": "indoor-plants"
+    },
+    {
+      "id": 2,
+      "productName": "Tulsi Plant",
+      "price": 150,
+      "discount": 5,
+      "productRating": 4.8,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/tulsi-plant.jpg",
+      "category": "medicinal-plants"
+    },
+    {
+      "id": 3,
+      "productName": "Jade Plant",
+      "price": 300,
+      "discount": 10,
+      "productRating": 4.2,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/jade-plant.jpg",
+      "category": "succulents"
+    },
+    {
+      "id": 4,
+      "productName": "Peace Lily",
+      "price": 400,
+      "discount": 20,
+      "productRating": 4.6,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/peace-lily.jpg",
+      "category": "flowering-plants"
+    },
+    {
+      "id": 5,
+      "productName": "Money Plant",
+      "price": 180,
+      "discount": 5,
+      "productRating": 4.7,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/money-plant.jpg",
+      "category": "indoor-plants"
+    },
+    {
+      "id": 6,
+      "productName": "Areca Palm",
+      "price": 500,
+      "discount": 12,
+      "productRating": 4.3,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/areca-palm.jpg",
+      "category": "indoor-plants"
+    },
+    {
+      "id": 7,
+      "productName": "Bamboo Plant",
+      "price": 220,
+      "discount": 8,
+      "productRating": 4.1,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/bamboo-plant.jpg",
+      "category": "lucky-plants"
+    },
+    {
+      "id": 8,
+      "productName": "Spider Plant",
+      "price": 280,
+      "discount": 10,
+      "productRating": 4.4,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/spider-plant.jpg",
+      "category": "air-purifying"
+    },
+    {
+      "id": 9,
+      "productName": "Cactus Plant",
+      "price": 350,
+      "discount": 15,
+      "productRating": 4.2,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/cactus-plant.jpg",
+      "category": "succulents"
+    },
+    {
+      "id": 10,
+      "productName": "Fiddle Leaf Fig",
+      "price": 600,
+      "discount": 25,
+      "productRating": 4.7,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/fiddle-leaf-fig.jpg",
+      "category": "indoor-plants"
+    },
+    {
+      "id": 11,
+      "productName": "Aloe Vera Plant",
+      "price": 200,
+      "discount": 10,
+      "productRating": 4,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/aloe-vera.jpg",
+      "category": "medicinal-plants"
+    },
+    {
+      "id": 12,
+      "productName": "Lavender Plant",
+      "price": 320,
+      "discount": 12,
+      "productRating": 4.5,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/lavender-plant.jpg",
+      "category": "flowering-plants"
+    },
+    {
+      "id": 13,
+      "productName": "Rosemary Plant",
+      "price": 270,
+      "discount": 9,
+      "productRating": 4.3,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/rosemary-plant.jpg",
+      "category": "herbs"
+    },
+    {
+      "id": 14,
+      "productName": "Basil Plant",
+      "price": 160,
+      "discount": 5,
+      "productRating": 4.7,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/basil-plant.jpg",
+      "category": "herbs"
+    },
+    {
+      "id": 15,
+      "productName": "Pothos Plant",
+      "price": 190,
+      "discount": 6,
+      "productRating": 4.8,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/pothos-plant.jpg",
+      "category": "indoor-plants"
+    },
+    {
+      "id": 16,
+      "productName": "Rubber Plant",
+      "price": 450,
+      "discount": 18,
+      "productRating": 4.4,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/rubber-plant.jpg",
+      "category": "indoor-plants"
+    },
+    {
+      "id": 17,
+      "productName": "Chrysanthemum Plant",
+      "price": 350,
+      "discount": 14,
+      "productRating": 4.6,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/chrysanthemum-plant.jpg",
+      "category": "flowering-plants"
+    },
+    {
+      "id": 18,
+      "productName": "ZZ Plant",
+      "price": 380,
+      "discount": 11,
+      "productRating": 4.3,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/zz-plant.jpg",
+      "category": "low-maintenance"
+    },
+    {
+      "id": 19,
+      "productName": "Fern Plant",
+      "price": 310,
+      "discount": 10,
+      "productRating": 4.2,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/fern-plant.jpg",
+      "category": "air-purifying"
+    },
+    {
+      "id": 20,
+      "productName": "Geranium Plant",
+      "price": 330,
+      "discount": 13,
+      "productRating": 4.5,
+      "productImageUrl": "https://www.ugaoo.com/cdn/shop/files/geranium-plant.jpg",
+      "category": "flowering-plants"
+    }
+  ]
+  
+}
+]
