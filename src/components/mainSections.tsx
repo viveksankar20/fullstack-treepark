@@ -2,7 +2,6 @@
 
 import React, { useEffect, useState } from "react";
 import Category from "@/components/category";
-import ImportanceOfTree from "@/components/ImportanceOfTree";
 import Card from "@/components/product-card";
 import YourBestPick from "@/components/YourBestPick";
 import Button from "./button";

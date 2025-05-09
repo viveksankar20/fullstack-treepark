@@ -1,6 +1,7 @@
 "use client";
 import React, { useEffect, useState } from 'react'
 import Button from './button';
+import Image from 'next/image';
 function Carocel() {
     const slideImage: string[] = [
         "https://www.ugaoo.com/cdn/shop/files/plantcare-banner_a37f8e27-0c3f-495d-b459-1fb83b5920a5.png?v=1739963487&width=2000",
@@ -16,9 +17,10 @@ function Carocel() {
         }, 5000);
         return () => clearInterval(interval);
       }, []);
+
   return (
     <div className="relative">
-          <img src={slideImage[count]} className="w-full h-full" alt="" />
+          <Image src={slideImage[count]} width={100} height={100} className="w-full h-full" alt="" />
           <div className="w-full text-center absolute ~bottom-7/20  ">
             {/* <button className="bg-[#029354] text-white ~p-1/3 ~text-sm/lg font-medium ~px-3/7 rounded transition-transform duration-300 hover:scale-90 " type="button">Shop Now</button> */}
             <Button className="py-2">Shop Now</Button>

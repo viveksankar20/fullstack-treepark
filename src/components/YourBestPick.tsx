@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import React from 'react'
 
 function YourBestPick() {
@@ -12,7 +13,7 @@ function YourBestPick() {
             <h1 className='text-center my-5 ~text-xl/4xl font-medium dark:text-white text-[#0A4C36] '>Your Best Picks</h1>
             <div className='grid lg:grid-cols-4 grid-cols-2  gap-5 px-2' >
                 {bestPicImages.map((val, index) => (
-                    <img src={val} alt="" key={index} />
+                    <Image src={val} alt="" key={index} />
                 ))}
 
             </div>

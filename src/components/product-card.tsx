@@ -1,6 +1,7 @@
 import React from 'react'
 import { IoMdStar } from "react-icons/io";
 import Button from './button';
+import Image from 'next/image';
 
 interface ProductCardData {
     id: number;
@@ -20,7 +21,7 @@ function Card({ productCardData }: { productCardData: ProductCardData }) {
             <div className='group   rounded bg-[#FFFFFF]  relative'>
                 {/* <span className='p-2 bg-[#FED02F]'>12%</span> */}
 
-                <img src="https://www.ugaoo.com/cdn/shop/files/1_cce982de-b1ea-473c-8687-004af7fb18f1.jpg?v=1740136077&width=1100" width={500} height={500} className='rounded' alt="" />
+                <Image src="https://www.ugaoo.com/cdn/shop/files/1_cce982de-b1ea-473c-8687-004af7fb18f1.jpg?v=1740136077&width=1100" width={500} height={500} className='rounded' alt="" />
 
                 <div className=' space-y-3'>
                     <p className='text-center ~text-md/lg font-normal my-2 tracking-wide'>Brazeliant wood plant</p>

@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import React, { useEffect, useRef } from 'react';
 
 const skills = [
@@ -65,7 +66,7 @@ const ProductScroll = () => {
                                     className="flex-shrink-0 w-80 cursor-pointer px-1"
                                 >
                                     <div className="relative h-48 overflow-hidden rounded-lg shadow-lg transition-transform duration-300 ease-in-out hover:scale-105">
-                                        <img
+                                        <Image
                                             src={skill.image}
                                             alt={skill.title}
                                             className="w-full h-full object-cover"
